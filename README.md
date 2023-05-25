@@ -8,22 +8,17 @@ Associated Tasks: Classification
 
 Number of instances: 90
 
-Number of variables: 170 
+Number of independent variables: 162
 
-Target variables: Gender, Age, Height, Weight
+Number of target variables: 4 (Gender, Age, Height, Weight)
 
+Slow Speed (SS): E – BF (54 Variables)
 
-Slow Speed (SS): I – BJ  (54 Variables)	
+Average Speed (AS): BG – DH (54 Variables)
 
-Average Speed (AS): BK – DL (54 Variables)	
-
-Fast Speed (FS): DM – FN  (54 Variables)
-
-Clinic: E – H (4 Variables)
-
+Fast Speed (FS): DI – FJ (54 Variables)
 
 Source: JEIOS Ltd
-
 
 # Data Set Information:
 
